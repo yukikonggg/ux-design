@@ -8,4 +8,4 @@ https://www.figma.com/proto/XDW6ecZwNSaSetr1YTww1a/BIT206-LMS-Prototype?node-id=
 https://www.figma.com/proto/XDW6ecZwNSaSetr1YTww1a/BIT206-LMS-Prototype?node-id=250%3A2&starting-point-node-id=250%3A2 (Mobile version)
 - Re-designed HELP University's student Learning Management System (LMS) platform 
 - Conducted a survey as primary research to understand students' pain points when using the LMS
-- High fidelity prototype created using Figma
+- Used Figma to create a high fidelity prototype
