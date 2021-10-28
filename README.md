@@ -1,5 +1,5 @@
 # ux-design
-User Interface and Experience Design Projects
+**User Interface and Experience Design Projects**
 
 **Learning Management System High Fidelity Prototype**
 
