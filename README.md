@@ -9,4 +9,4 @@ https://www.figma.com/proto/XDW6ecZwNSaSetr1YTww1a/BIT206-LMS-Prototype?node-id=
 - Re-designed HELP University's student Learning Management System (LMS) platform 
 - Conducted a survey as primary research to understand students' pain points when using the LMS
 - Used Figma to create a high fidelity prototype
-- Created in collboration with Aneil Pretam Singh, Chin Jia Wen, Chin Ze Han, and Joel Cheah Ui Yi
+- Created in collaboration with Aneil Pretam Singh, Chin Jia Wen, Chin Ze Han, and Joel Cheah Ui Yi
